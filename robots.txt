@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cms/
+Disallow: /cms-app/
+Disallow: /cms-google/
+Disallow: /scripts/
