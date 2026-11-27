@@ -18,7 +18,7 @@ PUBLIC_ROOT_FILES = frozenset({
     "robots.txt", "sitemap.xml", "legacy-archive.js",
 })
 PUBLIC_ADMIN_FILES = frozenset({"index.html", "admin.js", "admin-config.js"})
-PUBLIC_ASSETS = frozenset({"logo.png", "mark.png", "wordmark.png", "training.jpg"})
+PUBLIC_ASSETS = frozenset({"logo.png", "mark.png", "wordmark.png", "training.jpg", "peakform-hero.jpg"})
 
 
 def is_public_file(parts: tuple[str, ...]) -> bool:
